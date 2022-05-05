@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/testing/static/css/main.0f0d6e47.css",
+    "main.js": "/testing/static/js/main.7a26c44f.js",
+    "static/media/NetFlixLogo.png": "/testing/static/media/NetFlixLogo.774e8c1632ac9433608b.png",
+    "index.html": "/testing/index.html",
+    "main.0f0d6e47.css.map": "/testing/static/css/main.0f0d6e47.css.map",
+    "main.7a26c44f.js.map": "/testing/static/js/main.7a26c44f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f0d6e47.css",
+    "static/js/main.7a26c44f.js"
+  ]
+}
