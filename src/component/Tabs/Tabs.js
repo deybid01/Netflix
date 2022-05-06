@@ -74,7 +74,7 @@ const Tabs = ({activeTabName, onClickTab}) => {
                        </div>
                        <div className='tab-2-content-bottom'>
                             <div>
-                                <img src='https://i.ibb.co/DpdN7Gn/tab-content-2-1.png' />
+                                <img src='https://i.ibb.co/DpdN7Gn/tab-content-2-1.png' alt="" />
                                 <p className='text-md'>
                                     Watch on your TV
                                 </p>
@@ -83,7 +83,7 @@ const Tabs = ({activeTabName, onClickTab}) => {
                                 </p>
                             </div>
                             <div>
-                                <img src='https://i.ibb.co/R3r1SPX/tab-content-2-2.png' />
+                                <img src='https://i.ibb.co/R3r1SPX/tab-content-2-2.png' alt="" />
                                 <p className='text-md'>
                                     Watch instantly or download for later
                                 </p>
@@ -92,7 +92,7 @@ const Tabs = ({activeTabName, onClickTab}) => {
                                 </p>
                             </div>
                             <div>
-                                <img src='https://i.ibb.co/gDhnwWn/tab-content-2-3.png' />
+                                <img src='https://i.ibb.co/gDhnwWn/tab-content-2-3.png' alt="" />
                                 <p className='text-md'>
                                     Use any computer
                                 </p>
