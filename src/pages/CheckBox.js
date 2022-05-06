@@ -3,7 +3,7 @@ import React, {useReducer} from 'react';
 
 export function CheckBox() {
     const [checked, toggle] = useReducer(
-        checked =>!checked,
+        (checked) => (!checked),
         false
     );
    
@@ -15,7 +15,7 @@ export function CheckBox() {
             <input 
             id="checkbox"
             type="checkbox"
-           
+            checked={checked}
             onChange={toggle}
             className="checkbox"
             />

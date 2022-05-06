@@ -9,58 +9,58 @@ const Footer = () => {
             <div className='footer-cols'>
                 <ul>
                     <li>
-                        <a>FAQ</a>
+                        <p>FAQ</p>
                     </li>
                     <li>
-                        <a>Investor Relations</a>
+                        <p>Investor Relations</p>
                     </li>
                     <li>
-                        <a>Corporate Information</a>
+                        <p>Corporate Information</p>
                     </li>
                     <li>
-                        <a>Netflix Originals</a>
-                    </li>
-                </ul>
-                <ul>
-                    <li>
-                        <a>Help Center</a>
-                    </li>
-                    <li>
-                        <a>Jobs</a>
-                    </li>
-                    <li>
-                        <a>Term of Use</a>
-                    </li>
-                    <li>
-                        <a>Contact Us</a>
+                        <p>Netflix Originals</p>
                     </li>
                 </ul>
                 <ul>
                     <li>
-                        <a>Account</a>
+                        <p>Help Center</p>
                     </li>
                     <li>
-                        <a>Redeem Gift Cards</a>
+                        <p>Jobs</p>
                     </li>
                     <li>
-                        <a>Privacy</a>
+                        <p>Term of Use</p>
                     </li>
                     <li>
-                        <a>Speed Test</a>
+                        <p>Contact Us</p>
                     </li>
                 </ul>
                 <ul>
                     <li>
-                        <a>Media Center</a>
+                        <p>Account</p>
                     </li>
                     <li>
-                        <a>Buy Gift Cards</a>
+                        <p>Redeem Gift Cards</p>
                     </li>
                     <li>
-                        <a>Cookie Preferences</a>
+                        <p>Privacy</p>
                     </li>
                     <li>
-                        <a>Legal Notices</a>
+                        <p>Speed Test</p>
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <p>Media Center</p>
+                    </li>
+                    <li>
+                        <p>Buy Gift Cards</p>
+                    </li>
+                    <li>
+                        <p>Cookie Preferences</p>
+                    </li>
+                    <li>
+                        <p>Legal Notices</p>
                     </li>
                 </ul>
             </div>
