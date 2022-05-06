@@ -6,7 +6,7 @@ import Home from "./pages/Home";
 import NetFlixShow from "./pages/NetFlixShow";
 import SignIn from "./pages/SignIn";
 
-function App({}) {
+function App() {
   return (
   <div className="App">
     <Routes>
